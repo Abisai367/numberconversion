@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# numberconversion
+This is a web app built to enable one to convert from one number system and as usual is easy to use as 1,2,3. Choose your number system and the Final Number system that you would like your answer to be then bang i got you.  `parseInt(number, 2).toString(8)`  I used this formular for everything here
+>>>>>>> b313dce444c3c073ad01bf4dec6ea5e8fbd865c8
